@@ -1,4 +1,4 @@
----
+Editing icons
 title: Installing Ionic
 sidebar_label: CLI Installation
 ---
